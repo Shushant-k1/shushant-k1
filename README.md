@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Shushant 👋
 
-<!--
-**Shushant-k1/shushant-k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Full-stack developer with a passion for learning new technologies.
+- 🌱 Currently learning [Machine Learining ,LLM].
+- 🎓 Graduated from [Technocrats Institute of Technology].
+- 📫 How to reach me: [shushantk.ds.24@nitj.ac.in](mailto:shushantk.ds.24@nitj.ac.in)
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:**  Python,  C++
+- **Frameworks:**  Django
+- **Tools:** Git , VS Code
+- **Databases:** MySQL, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## GitHub Stats
+![Shushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shushant-k1&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shushant-k1&layout=compact&theme=radical)
+
+## Connect with Me
+- [LinkedIn]([https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/shushant-k1/))
