@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-<a href="https://shushant-k1.github.io/portfolio/">
+<a href="https://shushant-k1-portfolio.netlify.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
 <a href="https://www.linkedin.com/in/shushant-k1/">
@@ -140,7 +140,7 @@ hobbies: ["Coding", "Teaching", "Explaining concepts", "Blogging"]
   <a href="mailto:shushantk.ds.24@nitj.ac.in">
     <img src="https://img.icons8.com/fluency/48/gmail.png" width="40" />
   </a>
-  <a href="https://shushant-k1.github.io/portfolio/">
+  <a href="https://shushant-k1-portfolio.netlify.app/">
     <img src="https://img.icons8.com/fluency/48/domain.png" width="40" />
   </a>
 </p>
