@@ -97,7 +97,7 @@ hobbies: ["Coding", "Teaching", "Explaining concepts", "Blogging"]
 
 ## 📊 GitHub Stats & Languages
 
-<div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content: center;">
+<div align="center" style="display:flex; gap:30px; flex-wrap:wrap; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Shushant-k1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=7e3ace&text_color=ffffff" height="220" style="border-radius:15px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shushant-k1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff" height="220" style="border-radius:15px;"/>
 </div>
