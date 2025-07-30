@@ -2,11 +2,12 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
 
 jobs:
   build:
+    name: Jobs to update snake animation
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -15,7 +16,10 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
+          # Use your GitHub username
           github_user_name: ${{ github.repository_owner }}
+          
+          # Generate both light and dark themes with custom colors
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=e94560&color_dots=4f3a65,a36ac7,f075b2,e94560
