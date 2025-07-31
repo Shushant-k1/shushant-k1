@@ -103,13 +103,19 @@ hobbies: ["Coding", "Teaching", "Explaining concepts", "Blogging"]
 </div>
 
 ---
-
 ## 📖 Cumulative Coding Activity (Wakatime + GitHub)
 
-<div align="center" style="margin: 0; padding: 0;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@5376f2d6-0dbf-4d40-b813-7336bd764ac3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff" width="80%" style="border-radius:15px; min-width:300px;"/>
-</div>
+<p align="center">
+  <a href="https://wakatime.com/@5376f2d6-0dbf-4d40-b813-7336bd764ac3">
+    <img src="https://wakatime.com/badge/user/5376f2d6-0dbf-4d40-b813-7336bd764ac3.svg" alt="Wakatime Badge"/>
+  </a>
+</p>
 
+<div align="center">
+  <a href="https://wakatime.com/@5376f2d6-0dbf-4d40-b813-7336bd764ac3">
+    <img src="https://wakatime.com/share/@5376f2d6-0dbf-4d40-b813-7336bd764ac3/a06c8e0a-1d9c-4e11-b908-23d683e093f5.svg" alt="Wakatime Detailed Stats" width="350px"/>
+  </a>
+</div>
 ---
 
 ## 🟩 Contribution Heatmap
