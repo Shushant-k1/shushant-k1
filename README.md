@@ -254,7 +254,7 @@
 <!-- 3D Contribution Calendar -->
 <h3 align="center">🧊 3D Contribution Calendar</h3>
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" width="95%"/>
+  <img src="https://raw.githubusercontent.com/Shushant-k1/shushant-k1/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" width="95%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
