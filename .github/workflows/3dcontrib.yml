@@ -10,15 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Shushant-k1
-          SETTING_JSON: '{"githubUserName":"Shushant-k1","type":"NORMAL","fileName":"profile-3d-contrib/profile-night-view.svg"}'
+          USERNAME: ${{ github.repository_owner }}
+          
       - name: Commit & Push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add ./profile-3d-contrib/profile-night-view.svg
-          git commit -m "Update 3d contribution calendar"
-          git push
+          git pull --rebase origin main
+          git add ./profile-3d-contrib/
+          git diff --staged --quiet || (git commit -m "Update 3d contribution calendar" && git push)
