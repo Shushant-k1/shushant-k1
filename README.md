@@ -1,10 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0d1117,2b213a&text=Hello!&textColor=e94560&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0d1117,6e40c9,e94560&height=180&section=header&text=Hey%20There!%20👋&fontSize=50&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Machine+Learning+Engineer+%7C+DS;Building+RAG+Systems+%7C+Teaching" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shushant-k1&style=for-the-badge&color=6e40c9&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Shushant-k1?style=for-the-badge&color=e94560&labelColor=1a1b27&logo=github" alt="GitHub Followers"/>
+</p>
+
+<h2 align="center">
+  💬 Let's Connect and have a Chat!
+</h2>
 
 <p align="center">
 <a href="https://shushant-k1-portfolio.netlify.app/">
@@ -98,9 +109,13 @@ hobbies: ["Coding", "Teaching", "Explaining concepts", "Blogging"]
 ## 📊 GitHub Stats & Languages
 
 <div align="center" style="display:flex; gap:30px; flex-wrap:wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shushant-k1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=7e3ace&text_color=ffffff" height="220" style="border-radius:15px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shushant-k1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff" height="220" style="border-radius:15px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shushant-k1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=6e40c9&text_color=ffffff" height="180" style="border-radius:15px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shushant-k1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff" height="180" style="border-radius:15px;"/>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shushant-k1&theme=tokyonight&hide_border=true&background=0D1117&stroke=6e40c9&ring=e94560&fire=e94560&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak" width="55%"/>
+</p>
 
 ---
 ## 📖 Cumulative Coding Activity (Wakatime + GitHub)
@@ -121,7 +136,7 @@ hobbies: ["Coding", "Teaching", "Explaining concepts", "Blogging"]
 ## 🟩 Contribution Heatmap
 
 <div align="center">
-  <img alt="github-heatmap" src="https://github-readme-activity-graph.vercel.app/graph?username=Shushant-k1&bg_color=0d1117&color=39d353&line=2bfa4c&point=2bfa4c&area=true&area_color=183c1a&title_color=e94560" width="90%" style="border-radius:15px;"/>
+  <img alt="github-heatmap" src="https://github-readme-activity-graph.vercel.app/graph?username=Shushant-k1&bg_color=0d1117&color=6e40c9&line=e94560&point=e94560&area=true&area_color=2b1f47&title_color=e94560&hide_border=true" width="90%" style="border-radius:15px;"/>
 </div>
 
 ---
@@ -131,8 +146,17 @@ hobbies: ["Coding", "Teaching", "Explaining concepts", "Blogging"]
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shushant-k1/Shushant-k1/output/github-snake-dark.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Shushant-k1/Shushant-k1/output/github-snake-dark.svg" width="90%" style="border-radius:15px;"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shushant-k1/Shushant-k1/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Shushant-k1/Shushant-k1/output/github-snake.svg" width="90%" style="border-radius:15px;"/>
   </picture>
+</div>
+
+---
+
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" width="90%"/>
 </div>
 
 ---
@@ -141,16 +165,16 @@ hobbies: ["Coding", "Teaching", "Explaining concepts", "Blogging"]
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shushant-k1/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:shushantk.ds.24@nitj.ac.in">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://shushant-k1-portfolio.netlify.app/">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" />
+    <img src="https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:2b213a,0d1117&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:e94560,6e40c9,0d1117&height=120&section=footer"/>
 </p>

@@ -19,10 +19,10 @@ jobs:
           # Use your GitHub username
           github_user_name: ${{ github.repository_owner }}
           
-          # Generate both light and dark themes with custom colors
+          # Generate both light and dark themes with custom vibrant colors
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=e94560&color_dots=4f3a65,a36ac7,f075b2,e94560
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=6e40c9&color_dots=1a1b27,3e3354,6e40c9,8957e5,e94560
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
