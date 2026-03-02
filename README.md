@@ -157,7 +157,7 @@
 
 <!-- Tech Stack Icons Display -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,aws,gcp,docker,kubernetes,mongodb,mysql,postgres,firebase,git,github,linux,bash,vscode,streamlit&perline=9" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,gcp,docker,kubernetes,mongodb,mysql,postgres,firebase,git,github,linux,bash,vscode&perline=8" alt="Tech Stack Icons"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -170,13 +170,15 @@
 
 <div align="center">
 
+<!-- 📌 UPDATE: Replace the GitHub links below with your actual project repository URLs -->
+
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack |
 |:-----------|:---------------|:--------------|
-| **[RAG Assistant](https://github.com/Shushant-k1)** | Intelligent document Q&A system using retrieval-augmented generation | `LangChain` `OpenAI` `Pinecone` `Streamlit` |
-| **[ML Pipeline Framework](https://github.com/Shushant-k1)** | End-to-end ML pipeline with automated training & deployment | `MLflow` `Docker` `FastAPI` `AWS` |
-| **[Data Analytics Dashboard](https://github.com/Shushant-k1)** | Interactive visualization dashboard for business insights | `Python` `Plotly` `Streamlit` `SQL` |
-| **[NLP Text Classifier](https://github.com/Shushant-k1)** | Multi-label text classification using transformer models | `PyTorch` `Transformers` `HuggingFace` |
-| **[Predictive Analytics Engine](https://github.com/Shushant-k1)** | Time-series forecasting for business metrics | `Prophet` `TensorFlow` `Pandas` `GCP` |
+| **RAG Assistant** | Intelligent document Q&A system using retrieval-augmented generation | `LangChain` `OpenAI` `Pinecone` `Streamlit` |
+| **ML Pipeline Framework** | End-to-end ML pipeline with automated training & deployment | `MLflow` `Docker` `FastAPI` `AWS` |
+| **Data Analytics Dashboard** | Interactive visualization dashboard for business insights | `Python` `Plotly` `Streamlit` `SQL` |
+| **NLP Text Classifier** | Multi-label text classification using transformer models | `PyTorch` `Transformers` `HuggingFace` |
+| **Predictive Analytics Engine** | Time-series forecasting for business metrics | `Prophet` `TensorFlow` `Pandas` `GCP` |
 
 </div>
 
@@ -299,10 +301,10 @@
 
 <br/>
 
-<!-- Support -->
+<!-- Support - Remove or update the link if you don't have a Buy Me A Coffee account -->
 <p align="center">
-  <a href="https://www.buymeacoffee.com/shushantk1">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/>
+  <a href="https://github.com/Shushant-k1">
+    <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Star My Repos"/>
   </a>
 </p>
 
