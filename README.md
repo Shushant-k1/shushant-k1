@@ -208,7 +208,7 @@
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shushant-k1&theme=tokyonight&hide_border=true&background=0D1117&stroke=6e40c9&ring=e94560&fire=e94560&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=Shushant-k1&theme=tokyonight&hide_border=true&background=0D1117&stroke=6e40c9&ring=e94560&fire=e94560&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak" width="60%"/>
 </p>
 
 <!-- GitHub Trophies -->

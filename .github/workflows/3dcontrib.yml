@@ -10,10 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: yoyoinc/profile-3d-contrib@main
-        with:
-          username: Shushant-k1
-          output: ./profile-3d-contrib/profile-night-view.svg
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Shushant-k1
+          SETTING_JSON: '{"githubUserName":"Shushant-k1","type":"NORMAL","fileName":"profile-3d-contrib/profile-night-view.svg"}'
       - name: Commit & Push changes
         run: |
           git config --global user.name 'github-actions[bot]'
