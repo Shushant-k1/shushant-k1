@@ -98,6 +98,12 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7B61FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fine--Tuning-E94560?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Quantization-326CE5?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMOps-1F2937?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLOps-232F3E?style=for-the-badge&logoColor=white"/>
 </p>
 </details>
 
@@ -122,6 +128,8 @@
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
