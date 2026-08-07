@@ -69,11 +69,9 @@
 - 👨‍🏫 Teaching & mentoring aspiring ML engineers
 - ✍️ Writing technical blogs to share knowledge
 
-### 🎯 2025 Goals
+### 🎯 2026 Goals
 
-- 📝 Publish research paper in ML/AI domain
-- 🚀 Build & deploy 5 production-ready ML applications
-- 🤝 Contribute more to open-source ML projects
+- 🏆 Publish 2 journals in top-tier conferences on inversion problems in AI agent harnesses and RAG scalability
 
 </div>
 
